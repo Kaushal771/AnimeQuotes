@@ -14,6 +14,10 @@ struct QuotesScreen: View {
         service: QuotesServiceImplementation()
     )
     
+//    init() {
+//            self._vm = StateObject(wrappedValue: QuotesViewModel(service: QuotesService))
+//        }
+//    
     var body: some View{
         
         Group {
