@@ -1,3 +1,3 @@
 # Anime Quotes
 
-![Screenshot](QuotesPreview.png)
+![Screenshot](QuotesScreen.png)
